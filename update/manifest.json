@@ -1,12 +1,13 @@
 {
-  "Version": "0.3.344",
+  "Version": "0.3.345",
   "Type": "RELEASE",
-  "ReleasedAt": "2026-09-05T22:30:00Z",
+  "ReleasedAt": "2026-09-06T00:00:00Z",
   "Changes": [
-    "Initial live Qoral Utility update feed"
+    "Automatic updater test release",
+    "Tests updating installed Qoral Utility from v0.3.344 to v0.3.345"
   ],
   "Required": false,
-  "DownloadUrl": null,
-  "Sha256": null,
-  "PackageSizeBytes": null
+  "DownloadUrl": "https://github.com/bellodavid855/Qoral-Utility/releases/download/v0.3.345/QoralUtility-0.3.345-win-x64.zip",
+  "Sha256": "6F7DFE259CAF90157D80EEF7D863F19FDFC27D2ED126B3DED8953CED35734416",
+  "PackageSizeBytes": 135548000
 }
