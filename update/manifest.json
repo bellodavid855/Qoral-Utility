@@ -1,0 +1,12 @@
+{
+  "Version": "0.3.344",
+  "Type": "RELEASE",
+  "ReleasedAt": "2026-09-05T22:30:00Z",
+  "Changes": [
+    "Initial live Qoral Utility update feed"
+  ],
+  "Required": false,
+  "DownloadUrl": null,
+  "Sha256": null,
+  "PackageSizeBytes": null
+}
