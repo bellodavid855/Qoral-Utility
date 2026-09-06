@@ -1,15 +1,16 @@
 {
-  "Version": "0.3.346",
+  "Version": "0.3.347",
   "Type": "RELEASE",
-  "ReleasedAt": "2026-09-06T00:00:00Z",
+  "ReleasedAt": "2026-09-06T01:12:25Z",
   "Changes": [
-    "Faster automatic update detection",
-    "Update check now occurs during Qoral startup",
-    "Update appears before entering the main utility",
-    "Improved Qoral automatic updater"
+    "Instant startup update check",
+    "Update popup appears before entering Qoral Utility",
+    "Faster no-cache update detection",
+    "Discord login button now opens https://www.qoraltweaks.com/login",
+    "Removed preview-mode wording from startup"
   ],
   "Required": false,
-  "DownloadUrl": "https://github.com/qoralx/Qoral-Utility/releases/download/v0.3.346/QoralUtility-0.3.346-win-x64.zip",
-  "Sha256": "ED29DACDDBB5A6B656A60ED4F2FA3375379FA1371EE864ADBAE85882254A5A1D",
-  "PackageSizeBytes": 135548000
+  "DownloadUrl": "https://github.com/qoralx/Qoral-Utility/releases/download/v0.3.347/QoralUtility-0.3.347-win-x64.zip",
+  "Sha256": "4ACE2685B4CCD25625E0E84F1C8C4747FFFAA6975A0AC611D89EB82AC9A35FDD",
+  "PackageSizeBytes": 135553148
 }
